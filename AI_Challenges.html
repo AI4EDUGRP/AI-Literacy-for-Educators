@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="WebThemez">
+    <link rel="shortcut icon" href="">
+    <title>AI Literacy for Educators</title>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- FancyBox -->
+	  <link href="assets/css/fancybox/jquery.fancybox.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css"> 
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <!--[if lt IE 9]>
+    <script src="assets/js/html5shiv.js"></script>
+    <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.0/echarts.min.js" referrerpolicy="no-referrer"></script>
+    <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/echarts.min.js"></script>
+    <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/echarts-wordcloud.min.js"></script>
+  </head>
+  <body> 
+    <div id="navbar-top">
+      <nav class="navbar navbar-default navbar-static" role="navigation">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand nav-external" href="#home"><strong>AI Literacy for Educators</strong></a>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <section id="home" class="page">
+      <div class="container">
+        <div class="content cover text-center">
+          	<div class="banner-content">
+			        <div class="heroText">
+                <!-- <h2><span> Car Zone </span><br>
+                <strong>One stop CAR solution</strong></h2> -->
+              </div>
+			      </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="work" class="page space">
+      <div class="container text-center">
+          <div class="heading">
+            <h2>Our Work</h2>
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, alias enim placeat earum quos ab.</p>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div id="portfolio" style="height: 800px; width: 100%;">
+              
+              </div>
+              <div id="e0aebb3463c04f96ba40e578be96dd2f" class="chart-container" style="width:100%; height:500px; "></div>
+              <script>
+                var chart_a24d64ac6ea243ca9ba58f92718800c7 = echarts.init(
+                    document.getElementById('portfolio'), 'white', {renderer: 'canvas'});
+                var option_a24d64ac6ea243ca9ba58f92718800c7 = {
+            "animation": true,
+            "animationThreshold": 2000,
+            "animationDuration": 1000,
+            "animationEasing": "cubicOut",
+            "animationDelay": 0,
+            "animationDurationUpdate": 300,
+            "animationEasingUpdate": "cubicOut",
+            "animationDelayUpdate": 0,
+            "aria": {
+                "enabled": false
+            },
+            "color": [
+                "#5470c6",
+                "#91cc75",
+                "#fac858",
+                "#ee6666",
+                "#73c0de",
+                "#3ba272",
+                "#fc8452",
+                "#9a60b4",
+                "#ea7ccc"
+            ],
+            "series": [
+                {
+                    "type": "wordCloud",
+                    "name": "Challenge",
+                    "shape": "circle",
+                    "rotationRange": [
+                        -90,
+                        90
+                    ],
+                    "rotationStep": 45,
+                    "girdSize": 20,
+                    "sizeRange": [
+                        20,
+                        66
+                    ],
+                    "data": [
+                        {
+                            "name": "Lack guidance and resources on training AI literacy",
+                            "value": "11",
+                            "textStyle": {
+                                "color": "rgb(80,7,160)"
+                            }
+                        },
+                        {
+                            "name": "Lack guidance on data literacy",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(42,61,115)"
+                            }
+                        },
+                        {
+                            "name": "Data security",
+                            "value": "3",
+                            "textStyle": {
+                                "color": "rgb(147,149,79)"
+                            }
+                        },
+                        {
+                            "name": "Bias",
+                            "value": "11",
+                            "textStyle": {
+                                "color": "rgb(56,135,131)"
+                            }
+                        },
+                        {
+                            "name": "Lack guidance and training on digital skills",
+                            "value": "2",
+                            "textStyle": {
+                                "color": "rgb(50,50,93)"
+                            }
+                        },
+                        {
+                            "name": "Over-reliance on AI could reduce human communication",
+                            "value": "5",
+                            "textStyle": {
+                                "color": "rgb(51,94,75)"
+                            }
+                        },
+                        {
+                            "name": "Quality of AI-generated Content",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(13,122,83)"
+                            }
+                        },
+                        {
+                            "name": "Lack emotional engagement",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(90,126,21)"
+                            }
+                        },
+                        {
+                            "name": "Accuracy of outcomes",
+                            "value": "4",
+                            "textStyle": {
+                                "color": "rgb(37,84,52)"
+                            }
+                        },
+          
+                        {
+                            "name": "Human Agency",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(40,126,19)"
+                            }
+                        },
+                        {
+                            "name": "Plagiarism",
+                            "value": "3",
+                            "textStyle": {
+                                "color": "rgb(59,69,65)"
+                            }
+                        },
+                        {
+                            "name": "Over-reliance on AI",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(48,61,102)"
+                            }
+                        },
+                        {
+                            "name": "Responsible use of AI",
+                            "value": "2",
+                            "textStyle": {
+                                "color": "rgb(90,160,115)"
+                            }
+                        },
+                        {
+                            "name": "Ethical use of AI",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(157,45,57)"
+                            }
+                        },
+                        {
+                            "name": "Transparency",
+                            "value": "5",
+                            "textStyle": {
+                                "color": "rgb(115,134,145)"
+                            }
+                        },
+                        {
+                            "name": "Justice",
+                            "value": "2",
+                            "textStyle": {
+                                "color": "rgb(44,53,35)"
+                            }
+                        },
+                        {
+                            "name": "Fairness",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(68,157,158)"
+                            }
+                        },
+                        {
+                            "name": "Anxiety towards AI",
+                            "value": "2",
+                            "textStyle": {
+                                "color": "rgb(78,107,113)"
+                            }
+                        },
+                        {
+                            "name": "Sustainability",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(53,150,128)"
+                            }
+                        },
+                        {
+                            "name": "Reliability",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(141,148,130)"
+                            }
+                        },
+                        {
+                            "name": "Challenges in communicating between school administrations and educators regarding AI curriculum implementation",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(4,37,160)"
+                            }
+                        },
+                        {
+                            "name": "Limitations in infrastructure",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(130,21,44)"
+                            }
+                        },
+                        {
+                            "name": "Misuse the internet resources",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(62,26,135)"
+                            }
+                        },
+                        {
+                            "name": "Psychological pressure",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(54,0,63)"
+                            }
+                        },
+                        {
+                            "name": "Data privacy",
+                            "value": "11",
+                            "textStyle": {
+                                "color": "rgb(67,155,20)"
+                            }
+                        },
+                        {
+                            "name": "Academic integrity",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(54,155,72)"
+                            }
+                        },
+                        {
+                            "name": "AI is used responsibly and inclusively",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(129,74,147)"
+                            }
+                        },
+                        {
+                            "name": "Ethics",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(50,56,108)"
+                            }
+                        },
+                 
+                        {
+                            "name": "Lack of technical knowledge",
+                            "value": "5",
+                            "textStyle": {
+                                "color": "rgb(72,49,120)"
+                            }
+                        },
+                        {
+                            "name": "Critical thinking",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(111,122,148)"
+                            }
+                        },
+                        {
+                            "name": "Unprepared",
+                            "value": "1",
+                            "textStyle": {
+                                "color": "rgb(71,88,69)"
+                            }
+                        }
+                    ],
+                    "drawOutOfBound": false,
+                    "textStyle": {
+                        "emphasis": {}
+                    }
+                }
+            ],
+            "legend": [
+                {
+                    "data": [],
+                    "selected": {},
+                    "show": true,
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "backgroundColor": "transparent",
+                    "borderColor": "#ccc",
+                    "borderRadius": 0,
+                    "pageButtonItemGap": 5,
+                    "pageButtonPosition": "end",
+                    "pageFormatter": "{current}/{total}",
+                    "pageIconColor": "#2f4554",
+                    "pageIconInactiveColor": "#aaa",
+                    "pageIconSize": 15,
+                    "animationDurationUpdate": 800,
+                    "selector": false,
+                    "selectorPosition": "auto",
+                    "selectorItemGap": 7,
+                    "selectorButtonGap": 10
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "enterable": false,
+                "confine": false,
+                "appendToBody": false,
+                "transitionDuration": 0.4,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5,
+                "order": "seriesAsc"
+            },
+            "title": [
+                {
+                    "show": true,
+                    // "text": "Challenge",
+                    "target": "blank",
+                    "subtarget": "blank",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textAlign": "auto",
+                    "textVerticalAlign": "auto",
+                    "triggerEvent": false
+                }
+            ]
+        };
+                chart_a24d64ac6ea243ca9ba58f92718800c7.setOption(option_a24d64ac6ea243ca9ba58f92718800c7);
+            </script>
+            </div>
+          </div>       
+      </div>
+    </section>
+    
+    <footer id="footer">
+      <div class="container"> 
+        <div class="row">
+          <div class="col-lg-12 animated hiding" data-animation="fadeInUp">
+            <ul class="social list-inline ">
+              <li>
+                <!-- <a class="facebook" href="http://www.facebook.com" title="Facebook">
+                  <i class="fa fa-facebook fa-2x"></i>
+                </a> -->
+              </li>
+              <li>
+                <!-- <a class="twitter" href="http://www.twitter.com" title="Twitter">
+                  <i class="fa fa-twitter fa-2x"></i>
+                </a> -->
+              </li>
+              <li>
+                <!-- <a class="google-plus" href="http://www.plus.google.com" title="Google+">
+                  <i class="fa fa-google-plus fa-2x"></i>
+                </a> -->
+              </li>
+              <li>
+                <!-- <a class="dribbble" href="http://www.linkedin.com" title="Dribbble">
+                  <i class="fa fa-dribbble fa-2x"></i>
+                </a> -->
+              </li>
+            </ul>
+            <p class="copyright"> 
+              Template by <a href="http://www.webthemez.com">WebThemez</a> &middot; 
+              Code licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a> &middot;
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script src="assets/js/modernizr-latest.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/jquery.cslider.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+	<script src="assets/js/jquery.fancybox.pack.js"></script>  
+	<script src="assets/js/jquery.fancybox-media.js"></script>  
+    <script src="assets/js/imagesloaded.min.js"></script>
+    <script src="assets/js/jquery.scrollTo.min.js"></script>
+    <script src="assets/js/jquery.nav.min.js"></script>
+    <script src="assets/js/jquery.appear.min.js"></script>
+    <script src="assets/js/twitterFetcher.min.js"></script>
+    <script src="assets/js/script.js"></script> 
+	<script type="text/javascript">
+    $(document).ready(function () {
+		$('#da-slider').cslider({
+			autoplay: true,
+			bgincrement: 0
+		});
+    });
+    </script>
+  </body>
+</html>

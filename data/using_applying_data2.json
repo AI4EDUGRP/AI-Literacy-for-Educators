@@ -1,0 +1,1024 @@
+{
+    "nodes":[
+    {
+        "name": "Black et al. (2024)",
+        "value": 1
+    },
+    {
+        "name": "Teacher Education",
+        "value": 10
+    },
+    {
+        "name": "Olari and Romeike (2021)",
+        "value": 1
+    },
+    {
+        "name": "Zhang and Zhang (2024)",
+        "value": 1
+    },
+    {
+        "name": "Hashem et al. (2024)",
+        "value": 1
+    },
+    {
+        "name": "General Learning Environment",
+        "value": 14
+    },
+    {
+        "name": "ElSayary (2023)",
+        "value": 1
+    },
+    {
+        "name": "Meng et al. (2022)",
+        "value": 1
+    },
+
+    {
+        "name": "Stolpe and Hallstr\u00f6m (2024)",
+        "value": 1
+    },
+
+    {
+        "name": "van den Berg and du Plessis (2023)",
+        "value": 1
+    },
+    {
+        "name": "Hays et al. (2024)",
+        "value": 1
+    },
+     {
+        "name": "Yau et al. (2022)",
+        "value": 1
+    },
+    {
+        "name": "Adams et al. (2023)",
+        "value": 1
+    },
+    {
+        "name": "Ayanwale et al. (2024)",
+        "value": 1
+    },
+    {
+        "name": "Du et al. (2024)",
+        "value": 1
+    },
+    {
+        "name": "Al-Mughairi and Bhaskar (2024)",
+        "value": 1
+    },
+
+    {
+        "name": "Vazhayil et al. (2019)",
+        "value": 1
+    },
+    {
+        "name": "Wang (2023)",
+        "value": 1
+    },
+    {
+        "name": "Pretorius (2023)",
+        "value": 1
+    },
+    {
+        "name": "Kaplan-Rakowski et al. (2023)",
+        "value": 1
+    },
+    {
+        "name": "Olari et al. (2024)",
+        "value": 1
+    },
+
+    {
+        "name": "Sanusi et al. (2024)",
+        "value": 1
+    },
+    {
+        "name": "Kim (2024)",
+        "value": 1
+    },
+    {
+        "name": "Walsh et al. (2023)",
+        "value": 1
+    },
+    {
+        "name": "Wang and Nie (2023)",
+        "value": 1
+    },
+    {
+        "name": "Wang et al. (2023)",
+        "value": 1
+    },
+    {
+        "name": "Wang and Lu (2023)",
+        "value": 1
+    },
+    {
+        "name": "L\u00e9rias et al. (2024)",
+        "value": 1
+    },
+    {
+        "name": "Ng et al. (2023)",
+        "value": 1
+    },
+    {
+        "name": "Henry et al. (2021)",
+        "value": 1
+    },
+    {
+        "name": "Brummelen et al. (2021)",
+        "value": 1
+    },
+    {
+        "name": "Ji et al. (2024)",
+        "value": 1
+    },
+    {
+        "name": "Koh et al. (2023)",
+        "value": 1
+    },
+    {
+        "name": "Zammit et al. (2021)",
+        "value": 1
+    },
+    {
+        "name": "Ruiz et al. (2024)",
+        "value": 1
+    },
+    {
+        "name": "PK-12",
+        "value": 7
+    },
+    {
+        "name": "Chiu et al. (2024)",
+        "value": 1
+    },
+    {
+        "name": "Long and Magerko (2020)",
+        "value": 1
+    },
+    {
+        "name": "Intelligent Tutoring Systems",
+        "value": 1
+    },
+    {
+        "name": "Interactive Learning Environments",
+        "value": 4
+    },
+    {
+        "name": "Natural Language Interaction",
+        "value": 1
+    },
+    {
+        "name": "Assessments",
+        "value": 12
+    },
+    {
+        "name": "Lesson Planning",
+        "value": 10
+    },
+    {
+        "name": "Content Creation",
+        "value": 9
+    },
+    {
+        "name": "Learning AI Literacy",
+        "value": 6
+    },
+    {
+        "name": "Data Literacy",
+        "value": 5
+    },
+    {
+        "name": "Learning AI",
+        "value": 2
+    },
+    {
+        "name": "Personalized Learning",
+        "value": 7
+    },
+    {
+        "name": "Collaborative Learning",
+        "value": 4
+    },
+    {
+        "name": "Classroom Management",
+        "value": 8
+    },
+
+    {
+        "name": "Grading Tasks",
+        "value": 5
+    },
+    {
+        "name": "Personalized Instruction",
+        "value": 18
+    },
+    {
+        "name": "Enhance Critical Thinking",
+        "value": 5
+    },
+    {
+        "name": "Explain Complex Concepts",
+        "value": 3
+    },
+    {
+        "name": "Technology Education",
+        "value": 1
+    },
+    {
+        "name": "AI and STEM Curricula",
+        "value": 3
+    },
+    {
+        "name": "Robotics",
+        "value": 1
+    },
+    {
+        "name": "Integrating AI in Classrooms",
+        "value": 2
+    },
+    {
+        "name": "Higher Education",
+        "value": 2
+    },
+    {
+        "name": "Academic Writing",
+        "value": 2
+    },
+    {
+        "name": "Computer Science Teacher Education",
+        "value": 1
+    },
+    {
+        "name": "Perform Literature Review",
+        "value": 1
+    },
+    {
+        "name": "Learning AI literacy",
+        "value": 1
+    },
+    {
+        "name": "Education Program",
+        "value": 1
+    },
+    {
+        "name": "Digital Competencies",
+        "value": 1
+    },
+    {
+        "name": "Conversational AI Curriculum",
+        "value": 1
+    },
+    {
+        "name": "Problem-Solving",
+        "value": 1
+    }
+],
+"links":[
+    {
+        "source": "Black et al. (2024)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Olari and Romeike (2021)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Zhang and Zhang (2024)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Hashem et al. (2024)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "ElSayary (2023)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Meng et al. (2022)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Stolpe and Hallstr\u00f6m (2024)",
+        "target": "Technology Education",
+        "value": 1
+    },
+    {
+        "source": "van den Berg and du Plessis (2023)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Hays et al. (2024)",
+        "target": "PK-12",
+        "value": 1
+    },
+    {
+        "source": "Yau et al. (2022)",
+        "target": "PK-12",
+        "value": 1
+    },
+    {
+        "source": "Adams et al. (2023)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Ayanwale et al. (2024)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Du et al. (2024)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Al-Mughairi and Bhaskar (2024)",
+        "target": "Higher Education",
+        "value": 1
+    },
+    {
+        "source": "Vazhayil et al. (2019)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Wang (2023)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Pretorius (2023)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Kaplan-Rakowski et al. (2023)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Olari et al. (2024)",
+        "target": "Computer Science Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Sanusi et al. (2024)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Kim (2024)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Walsh et al. (2023)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Wang and Nie (2023)",
+        "target": "Higher Education",
+        "value": 1
+    },
+    {
+        "source": "Wang et al. (2023)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Wang and Lu (2023)",
+        "target": "PK-12",
+        "value": 1
+    },
+    {
+        "source": "L\u00e9rias et al. (2024)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Ng et al. (2023)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Henry et al. (2021)",
+        "target": "PK-12",
+        "value": 1
+    },
+    {
+        "source": "Brummelen et al. (2021)",
+        "target": "PK-12",
+        "value": 1
+    },
+    {
+        "source": "Ji et al. (2024)",
+        "target": "Teacher Education",
+        "value": 1
+    },
+    {
+        "source": "Koh et al. (2023)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Zammit et al. (2021)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Ruiz et al. (2024)",
+        "target": "PK-12",
+        "value": 1
+    },
+    {
+        "source": "Chiu et al. (2024)",
+        "target": "General Learning Environment",
+        "value": 1
+    },
+    {
+        "source": "Long and Magerko (2020)",
+        "target": "PK-12",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Intelligent Tutoring Systems",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Interactive Learning Environments",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Natural Language Interaction",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Content Creation",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Learning AI Literacy",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Data Literacy",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Learning AI",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Personalized Learning",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Collaborative Learning",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Classroom Management",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Content Creation",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Grading Tasks",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Learning",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Classroom Management",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Enhance Critical Thinking",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Explain Complex Concepts",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Data Literacy",
+        "value": 1
+    },
+    {
+        "source": "Technology Education",
+        "target": "AI and STEM Curricula",
+        "value": 1
+    },
+    {
+        "source": "Technology Education",
+        "target": "Robotics",
+        "value": 1
+    },
+    {
+        "source": "Technology Education",
+        "target": "Explain Complex Concepts",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Content Creation",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Classroom Management",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Enhance Critical Thinking",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Integrating AI in Classrooms",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Classroom Management",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Interactive Learning Environments",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Data Literacy",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Personalized Learning",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Classroom Management",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Grading Tasks",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Content Creation",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Interactive Learning Environments",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Learning AI Literacy",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Learning",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": " Classroom Management",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Enhance Critical Thinking",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Academic Writing",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Content Creation",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "Computer Science Teacher Education",
+        "target": "Learning AI Literacy",
+        "value": 1
+    },
+    {
+        "source": "Computer Science Teacher Education",
+        "target": "Data Literacy",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Learning",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Collaborative Learning",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Interactive Learning Environments",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Grading Tasks",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "AI and STEM Curricula",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Content Creation",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Data Literacy",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Classroom Management",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Content Creation",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Grading Tasks",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Perform Literature Review",
+        "value": 1
+    },
+    {
+        "source": "Higher Education",
+        "target": "Academic Writing",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Personalized Learning",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Learning AI literacy",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Education Program",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Digital Competencies",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Classroom Management",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Collaborative Learning",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Grading Tasks",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Learning AI",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Integrating AI in Classrooms",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Conversational AI Curriculum",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "AI and STEM Curricula",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Content Creation",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Explain Complex Concepts",
+        "value": 1
+    },
+    {
+        "source": "Teacher Education",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Collaborative Learning",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Learning AI Literacy",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Enhance Critical Thinking",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Lesson Planning",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Content Creation",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Assessments",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Personalized Instruction",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Learning AI Literacy",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Enhance Critical Thinking",
+        "value": 1
+    },
+    {
+        "source": "General Learning Environment",
+        "target": "Problem-Solving",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Learning AI Literacy",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Personalized Learning",
+        "value": 1
+    },
+    {
+        "source": "PK-12",
+        "target": "Personalized Instruction",
+        "value": 1
+    }
+]
+}

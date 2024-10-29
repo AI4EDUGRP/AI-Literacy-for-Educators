@@ -1,0 +1,710 @@
+{
+    "nodes":[
+        {
+            "name":"Zammit et al. (2021)",
+            "value": 1
+        },
+        {
+            "name":"Brummelen et al. (2021)",
+            "value":1
+        },
+        {
+            "name":"Wilton et al. (2022)",
+            "value":1
+        },
+        {
+            "name":"Adams et al. (2023)",
+            "value":1
+        },
+        {
+            "name": "Wang (2023)"
+        },
+        {
+            "name": "Walsh et al. (2023)"
+        },
+        {
+            "name":"Wang and Lu (2023)"
+        },
+        {
+            "name":"Koh et al. (2023)"
+        },
+        {
+            "name": "Wang and Nie (2023)"
+        },
+        {
+            "name": "Black et al. (2024)"
+        },
+        {
+            "name": "Stolpe and Hallstr\u00f6m (2024)"
+        },
+        {
+            "name": "Olari et al. (2024)"
+        },
+        {
+            "name": "Chiu et al. (2024)"
+        },
+        {
+            "name": "Du et al. (2024)"
+        },
+        {
+            "name": "Zhang and Zhang (2024)"
+        },
+        {
+            "name":"Fundamental and Technical Knowledge",
+            "value": 10
+        },
+        {
+            "name":"Pedagogical Integration",
+            "value": 8
+        },
+        {
+            "name":"Ethical and Societal Implications",
+            "value": 6
+        },
+        {
+            "name":"Fundamental Concepts",
+            "value": 11
+        },
+        {
+            "name":"Programming Skills",
+            "value": 4
+        },
+        {
+            "name":"Rule-Based AI",
+            "value": 1
+        },
+        {
+            "name":"Data Literacy",
+            "value": 5
+        },
+        {
+            "name":"Data Concepts",
+            "value": 4
+        },
+        {
+            "name":"System/Algorithmic Thinking",
+            "value": 2
+        },
+        {
+            "name":"Supervised Learning",
+            "value": 5
+        },       
+        {
+            "name":"Machine Learning Algorithms",
+            "value": 6
+        },
+        {
+            "name":"Natural Language Processing",
+            "value": 5
+        },
+        {
+            "name":"Conversational AI",
+            "value": 1
+        }, 
+        {
+            "name":"AI-powered Tools",
+            "value": 6
+        },
+        {
+            "name":"Personalized Learning Systems",
+            "value": 4
+        },
+        {
+            "name":"Adaptive Systems",
+            "value": 1
+        },
+        {
+            "name":"Intelligent Tutoring Systems",
+            "value": 1
+        },
+        {
+            "name":"Classrooom Management",
+            "value":2
+
+        },
+        {
+            "name":"AI-driven Learning Activities",
+            "value": 1
+
+        },
+        {
+            "name":"AI-facilitated Collaboration",
+            "value": 2
+        },
+        {
+            "name":"Project-based Learning",
+            "value":2
+        },
+        {
+            "name":"Societal Impacts",
+            "value": 6
+        },
+        {
+            "name": "Bias and Fairness",
+            "value": 11
+        },
+        {
+            "name": "Data Privacy",
+            "value": 8
+        },
+        {
+            "name":"Equity",
+            "value": 1
+        },
+        {
+            "name": "Human in AI",
+            "value": 2
+        },
+        {
+            "name":"Transparency",
+            "value":4
+        }
+    ],
+    "links":[
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "Fundamental Concepts",
+            "value": 1
+        },
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "Programming Skills",
+            "value": 1
+        },
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "Rule-Based AI",
+            "value": 1
+        },
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "Data Literacy",
+            "value": 1
+        },
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "Data Concepts",
+            "value": 1
+        },
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "System/Algorithmic Thinking",
+            "value": 1
+        },
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "Supervised Learning",
+            "value": 1
+        },
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "Machine Learning Algorithms",
+            "value": 1
+        },
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "Natural Language Processing",
+            "value": 1
+        },
+        {
+            "source": "Fundamental and Technical Knowledge",
+            "target": "Conversational AI",
+            "value": 1
+        },
+        {
+            "source": "Pedagogical Integration",
+            "target": "AI-powered Tools",
+            "value": 1
+        },
+        {
+            "source": "Pedagogical Integration",
+            "target": "Personalized Learning Systems",
+            "value": 1
+        },
+        {
+            "source": "Pedagogical Integration",
+            "target": "Adaptive Systems",
+            "value": 1
+        },
+        {
+            "source": "Pedagogical Integration",
+            "target": "Intelligent Tutoring Systems",
+            "value": 1
+        },
+        {
+            "source": "Pedagogical Integration",
+            "target": "Classrooom Management",
+            "value": 1
+        },
+        {
+            "source": "Pedagogical Integration",
+            "target": "AI-driven Learning Activities",
+            "value": 1
+        },
+        {
+            "source": "Pedagogical Integration",
+            "target": "AI-facilitated Collaboration",
+            "value": 1
+        },
+        {
+            "source": "Pedagogical Integration",
+            "target": "Project-based Learning",
+            "value": 1
+        },
+        {
+            "source": "Ethical and Societal Implications",
+            "target": "Societal Impacts",
+            "value": 1
+        },
+        {
+            "source": "Ethical and Societal Implications",
+            "target": "Bias and Fairness",
+            "value": 1
+        },
+        {
+            "source": "Ethical and Societal Implications",
+            "target": "Data Privacy",
+            "value": 1
+        },
+        {
+            "source": "Ethical and Societal Implications",
+            "target": "Equity",
+            "value": 1
+        },
+        {
+            "source": "Ethical and Societal Implications",
+            "target": "Human in AI",
+            "value": 1
+        },
+        {
+            "source": "Ethical and Societal Implications",
+            "target": "Transparency",
+            "value": 1
+        },
+        {
+            "source": "Zammit et al. (2021)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Brummelen et al. (2021)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wang and Nie (2023)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Black et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Stolpe and Hallstr\u00f6m (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Olari et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Du et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Zhang and Zhang (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Stolpe and Hallstr\u00f6m (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Zhang and Zhang (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Olari et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Olari et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Zhang and Zhang (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Olari et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Zhang and Zhang (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Stolpe and Hallstr\u00f6m (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Olari et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Zammit et al. (2021)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Brummelen et al. (2021)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Black et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Stolpe and Hallstr\u00f6m (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Brummelen et al. (2021)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Brummelen et al. (2021)",
+            "target": "Fundamental and Technical Knowledge",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Adams et al. (2023)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Black et al. (2024)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Olari et al. (2024)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Wang and Nie (2023)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Black et al. (2024)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Zhang and Zhang (2024)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Wang and Nie (2023)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Wang and Nie (2023)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Zhang and Zhang (2024)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Walsh et al. (2023)",
+            "target": "Pedagogical Integration",
+            "value": 1
+        },
+        {
+            "source": "Zammit et al. (2021)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Wang and Lu (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Black et al. (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Stolpe and Hallstr\u00f6m (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Zammit et al. (2021)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Brummelen et al. (2021)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Adams et al. (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Walsh et al. (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Wang and Lu (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Koh et al. (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Black et al. (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Stolpe and Hallstr\u00f6m (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Adams et al. (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Walsh et al. (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Wang and Lu (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Koh et al. (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Black et al. (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Stolpe and Hallstr\u00f6m (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Black et al. (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Brummelen et al. (2021)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Stolpe and Hallstr\u00f6m (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Wilton et al. (2022)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Adams et al. (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Koh et al. (2023)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "Ethical and Societal Implications",
+            "value": 1
+        }
+    ]
+}

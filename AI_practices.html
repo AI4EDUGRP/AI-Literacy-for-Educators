@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="WebThemez">
+    <link rel="shortcut icon" href="">
+    <title>AI Literacy for Educators</title>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- FancyBox -->
+	  <link href="assets/css/fancybox/jquery.fancybox.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css"> 
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <!--[if lt IE 9]>
+    <script src="assets/js/html5shiv.js"></script>
+    <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.0/echarts.min.js" referrerpolicy="no-referrer"></script>
+  </head>
+  <body> 
+          <div id="navbar-top">
+      <nav class="navbar navbar-default navbar-static" role="navigation">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand nav-external" href="#home"><strong>AI Literacy for Educators</strong></a>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <section id="home" class="page">
+      <div class="container">
+        <div class="content cover text-center">
+          	<div class="banner-content">
+			        <div class="heroText">
+                <!-- <h2><span> Car Zone </span><br>
+                <strong>One stop CAR solution</strong></h2> -->
+              </div>
+			      </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="work" class="page space">
+      <div class="container text-center">
+          <div class="heading">
+            <h2>Our Work</h2>
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, alias enim placeat earum quos ab.</p>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div id="portfolio" style="height: 800px; width: 100%;">
+              
+              </div>
+              <script>
+                var charDom = document.getElementById("portfolio")
+                var myChart = echarts.init(charDom)
+                var option;
+                option = {
+    
+                    series:[
+                        {
+                            type:"sankey",
+                            left: 50.0,
+                            top: 20.0,
+                            right: 300.0,
+                            bottom: 25.0,
+                            data:[
+                                {
+                                    name: "Understanding AI Concepts",
+                                    itemStyle:{
+                                        color:"rgba(64,105,157,255)",
+                                        borderColor:"rgba(64,105,157,255)"
+                                    }
+                                },
+                                {
+                                    name:"Core concepts/Competencies",
+                                    itemStyle:{
+                                        color: "rgba(106,82,134,255)",
+                                        borderColor:"rgba(106,82,134,255)"
+                                    }
+                                },
+                                {
+                                    name:"Technical Skills",
+                                    itemStyle:{
+                                        color:"#C32D2E",
+                                        borderColor:"#C32D2E"
+                                    }
+                                },
+                                {
+                                    name:"Machine Learning",
+                                    itemStyle:{
+                                        color:"#3891A7",
+                                        borderColor:"#3891A7"
+                                    }
+                                },
+                                {
+                                    name:"Natural Language Processing",
+                                    itemStyle:{
+                                        color:"#0037DA",
+                                        borderColor:"#0037DA"
+                                    }
+                                },
+                                {
+                                    name:"Algorithms",
+                                    itemStyle:{
+                                        color:"#C0BEAF",
+                                        borderColor:"#C0BEAF"
+                                    }
+                                },
+                                {
+                                    name:"Predictive Analytics",
+                                    itemStyle:{
+                                        color:"#EA005E",
+                                        borderColor:"#EA005E"
+                                    }
+                                },
+                                {
+                                    name:"Reinforcement Learning",
+                                    itemStyle:{
+                                        color:"#9ed566",
+                                        borderColor:"#9ed566"
+                                    }
+                                },
+                                {
+                                    name:"Supervised/Unsupervised Learning",
+                                    itemStyle:{
+                                        color:"",
+                                        borderColor:""
+                                    }
+                                },
+                                {
+                                    name:"Rule-based AI",
+                                    itemStyle:{
+                                        color:"#2BCC7F",
+                                        borderColor:"#2BCC7F"
+                                    }
+                                },
+                                {
+                                    name:"Data Processing",
+                                    itemStyle:{
+                                        color:"#809B48",
+                                        borderColor:"#809B48"
+                                    }
+                                },
+                                {
+                                    name:"Cloud Computing",
+                                    itemStyle:{
+                                        color:"#604878",
+                                        borderColor:"#604878"
+                                    }
+                                },
+                                {
+                                    name:"Application Skills",
+                                    itemStyle:{
+                                        color:"#5ba33b",
+                                        borderColor:"#5ba33b"
+                                    }
+                                },
+                                {
+                                    name:"ChatGPT",
+                                    itemStyle:{
+                                        color:"#A5644E",
+                                        borderColor:"#A5644E"
+                                    }
+                                },
+                                {
+                                    name:"Dialogue Systems",
+                                    itemStyle:{
+                                        color:"#761721",
+                                        borderColor:"#761721"
+                                    }
+                                },
+                                {
+                                    name:"Human-Machine Collaboration",
+                                    itemStyle:{
+                                        color:"#B1BADD",
+                                        borderColor:"#B1BADD"
+                                    }
+                                },
+                                {
+                                    name:"Digital Competencies",
+                                    itemStyle:{
+                                        color:"#B0CCB0",
+                                        borderColor:"#B0CCB0"
+                                    }
+                                },
+                                {
+                                    name:"Ethical Thinking",
+                                    itemStyle:{
+                                        color:"#4E342E",
+                                        borderColor:"#4E342E"
+                                    }
+                                },
+                                {
+                                    name:"AI Ethics",
+                                    itemStyle:{
+                                        color:"#881798",
+                                        borderColor:"#881798"
+                                    }
+                                },
+                                {
+                                    name:"AI Thinking",
+                                    itemStyle:{
+                                        color:"#D13438",
+                                        borderColor:"#D13438"
+                                    }
+                                },
+    
+                                {
+                                    name:"Pedagogical Frameworks",
+                                    itemStyle:{
+                                        color:"#40699D",
+                                        borderColor:"#40699D"
+    
+                                    }
+                                },
+                                {
+                                    name:"TPACK Framework",
+                                    itemStyle:{
+                                        color:"#84AA33",
+                                        borderColor:"#84AA33"
+                                    }
+                                },
+                                {
+                                    name:"Learning Theories",
+                                    itemStyle:{
+                                        color:"#ac7430",
+                                        borderColor:"#ac7430"
+                                    }
+                                },
+                                {
+                                    name:"Application scenarios",
+                                    itemStyle:{
+                                        color: "#9ed566",
+                                        borderColor:"#9ed566"
+                                    }
+    
+                                },
+                                {
+                                    name:"Teaching Support",
+                                    itemStyle:{
+                                        color:"#C32D2E",
+                                        borderColor:"#C32D2E"
+                                    }
+                                },
+                                {
+                                    name:"Content Generation",
+                                    itemStyle:{
+                                        color:"#3891A7",
+                                        borderColor:"#3891A7"
+                                    }
+                                },
+                                {
+                                    name:"Lesson Planning",
+                                    itemStyle:{
+                                        color:"#0037DA",
+                                        borderColor:"#0037DA"
+                                    }
+                                },
+                                {
+                                    name:"Curriculum Design",
+                                    itemStyle:{
+                                        color:"#C0BEAF",
+                                        borderColor:"#C0BEAF"
+                                    }
+                                },
+                                {
+                                    name:"Instructional Support",
+                                    itemStyle:{
+                                        color:"#EA005E",
+                                        borderColor:"#EA005E"
+                                    }
+                                },
+                                {
+                                    name:"Automated Text-based Tasks",
+                                    itemStyle:{
+                                        color:"#9ed566",
+                                        borderColor:"#9ed566"
+                                    }
+                                },
+                                {
+                                    name:"Classroom Management",
+                                    itemStyle:{
+                                        color:"#D13438",
+                                        borderColor:"#D13438"
+                                    }
+                                },
+                                {
+                                    name:"Automated Grading",
+                                    itemStyle:{
+                                        color:"#2BCC7F",
+                                        borderColor:"#2BCC7F"
+                                    }
+                                },
+                                {
+                                    name:"Classroom Assessment",
+                                    itemStyle:{
+                                        color:"#809B48",
+                                        borderColor:"#809B48"
+                                    }
+                                },
+                                {
+                                    name:"Learning Analytics",
+                                    itemStyle:{
+                                        color:"#604878",
+                                        borderColor:"#604878"
+                                    }
+                                },
+                                {
+                                    name:"Strategies to Acquire",
+                                    itemStyle:{
+                                        color: "#761721",
+                                        borderColor:"#761721"
+                                    }
+    
+                                },
+                                {
+                                    name:"Experiential Strategies",
+                                    itemStyle:{
+                                        color:"#C32D2E",
+                                        borderColor:"#C32D2E"
+                                    }
+                                },
+                                {
+                                    name:"Hands-on Experience",
+                                    itemStyle:{
+                                        color:"#3891A7",
+                                        borderColor:"#3891A7"
+                                    }
+                                },
+                                {
+                                    name:"Project-based Learning",
+                                    itemStyle:{
+                                        color:"#0037DA",
+                                        borderColor:"#0037DA"
+                                    }
+                                },
+                                {
+                                    name:"Inquiry-based Projects",
+                                    itemStyle:{
+                                        color:"#C0BEAF",
+                                        borderColor:"#C0BEAF"
+                                    }
+                                },
+                                {
+                                    name:"Role-playing Games",
+                                    itemStyle:{
+                                        color:"#EA005E",
+                                        borderColor:"#EA005E"
+                                    }
+                                },
+                                {
+                                    name:"Game-based Learning",
+                                    itemStyle:{
+                                        color:"#9ed566",
+                                        borderColor:"#9ed566"
+                                    }
+                                },
+                                {
+                                    name:"Experiential Learning",
+                                    itemStyle:{
+                                        color:"#809B48",
+                                        borderColor:"#809B48"
+                                    }
+                                },
+    
+                            
+                                {
+                                    name:"Collaborative Strategies",
+                                    itemStyle:{
+                                        color:"#5ba33b",
+                                        borderColor:"#5ba33b"
+                                    }
+                                },
+                                {
+                                    name:"Collaborative Projects",
+                                    itemStyle:{
+                                        color:"#A5644E",
+                                        borderColor:"#A5644E"
+                                    }
+                                },
+                                {
+                                    name:"Iterative Design",
+                                    itemStyle:{
+                                        color:"#761721",
+                                        borderColor:"#761721"
+                                    }
+                                },
+                                {
+                                    name:"Design Thinking",
+                                    itemStyle:{
+                                        color:"#B1BADD",
+                                        borderColor:"#B1BADD"
+                                    }
+                                },
+                                {
+                                    name:"Brainstorm Research",
+                                    itemStyle:{
+                                        color:"#B0CCB0",
+                                        borderColor:"#B0CCB0"
+                                    }
+                                },
+    
+    
+                                {
+                                    name:"Developmental Strategies",
+                                    itemStyle:{
+                                        color:"#4E342E",
+                                        borderColor:"#4E342E"
+                                    }
+                                },
+                                {
+                                    name:"Workshops/Training",
+                                    itemStyle:{
+                                        color:"#881798",
+                                        borderColor:"#881798"
+                                    }
+                                },
+                                {
+                                    name:"Professional Development",
+                                    itemStyle:{
+                                        color:"#D13438",
+                                        borderColor:"#D13438"
+                                    }
+                                },
+    
+                                {
+                                    name:"Prompt Engineering",
+                                    itemStyle:{
+                                        color:"#40699D",
+                                        borderColor:"#40699D"
+    
+                                    }
+                                },
+                                {
+                                    name:"Pedagogical Support",
+                                    itemStyle:{
+                                        color:"#604878",
+                                        borderColor:"#604878"
+                                    }
+                                },
+          
+    
+                                {
+                                    name:"Tool Exploration",
+                                    itemStyle:{
+                                        color:"#009DD9",
+                                        borderColor:"#009DD9"
+                                    }
+                                },
+    
+                                {
+                                    name:"AI Dashboards",
+                                    itemStyle:{
+                                        color:"#ac7430",
+                                        borderColor:"#ac7430"
+                                    }
+                                },
+                                {
+                                    name:"Orange3",
+                                    itemStyle:{
+                                        color:"#2BCC7F",
+                                        borderColor:"#2BCC7F"
+                                    }
+                                },
+                                {
+                                    name:"ArtBot",
+                                    itemStyle:{
+                                        color:"#FFA98C",
+                                        borderColor:"#FFA98C"
+                                    }
+                                },
+                                {
+                                    name:"AI Tools",
+                                    itemStyle:{
+                                        color:"#84AA33",
+                                        borderColor:"#84AA33"
+                                    }
+                                },
+    
+    
+    
+                                {
+                                    name:"Personalized Support",
+                                    itemStyle:{
+                                        color:"#5ba33b",
+                                        borderColor:"#5ba33b"
+                                    }
+                                },
+                                {
+                                    name:"Personalized Learning",
+                                    itemStyle:{
+                                        color:"#A5644E",
+                                        borderColor:"#A5644E"
+                                    }
+                                },
+                                {
+                                    name:"Adaptive Learning Platforms",
+                                    itemStyle:{
+                                        color:"#761721",
+                                        borderColor:"#761721"
+                                    }
+                                },
+                                {
+                                    name:"Personalized Instruction",
+                                    itemStyle:{
+                                        color:"#B1BADD",
+                                        borderColor:"#B1BADD"
+                                    }
+                                },
+                                {
+                                    name:"Adaptive Assessments",
+                                    itemStyle:{
+                                        color:"#B0CCB0",
+                                        borderColor:"#B0CCB0"
+                                    }
+                                },
+                                {
+                                    name:"Intelligent Tutoring Systems",
+                                    itemStyle:{
+                                        color:"#4E342E",
+                                        borderColor:"#4E342E"
+                                    }
+                                },
+                                {
+                                    name:"STEM Concepts",
+                                    itemStyle:{
+                                        color:"#D13438",
+                                        borderColor:"#D13438"
+                                    }
+                                },
+                                {
+                                    name:"Feedback Provision",
+                                    itemStyle:{
+                                        color:"#84AA33",
+                                        borderColor:"#84AA33"
+                                    }
+                                },
+                                
+                                {
+                                    name:"Other Scenarios",
+                                    itemStyle:{
+                                        color:"#40699D",
+                                        borderColor:"#40699D"
+    
+                                    }
+                                },
+    
+                                {
+                                    name:"Everyday Contexts",
+                                    itemStyle:{
+                                        color:"#ac7430",
+                                        borderColor:"#ac7430"
+                                    }
+                                },
+                                {
+                                    name:"Evaluation strategies",
+                                    itemStyle:{
+                                        color: "#F07F09",
+                                        borderColor:"#F07F09"
+                                    }
+    
+                                },
+                                {
+                                    name:"Student Evaluation",
+                                    itemStyle:{
+                                        color:"#C32D2E",
+                                        borderColor:"#C32D2E"
+                                    }
+                                },
+                                {
+                                    name:"Students' performance",
+                                    itemStyle:{
+                                        color:"#3891A7",
+                                        borderColor:"#3891A7"
+                                    }
+                                },
+                                {
+                                    name:"Students' Feedback",
+                                    itemStyle:{
+                                        color:"#0037DA",
+                                        borderColor:"#0037DA"
+                                    }
+                                },
+                                {
+                                    name:"Pre-/Post-Evaluation Survey",
+                                    itemStyle:{
+                                        color:"#C0BEAF",
+                                        borderColor:"#C0BEAF"
+                                    }
+                                },
+                                {
+                                    name:"AI Knowledge Tests",
+                                    itemStyle:{
+                                        color:"#EA005E",
+                                        borderColor:"#EA005E"
+                                    }
+                                },
+            
+                                {
+                                    name:"Reflective Practices",
+                                    itemStyle:{
+                                        color:"#5ba33b",
+                                        borderColor:"#5ba33b"
+                                    }
+                                },
+                                {
+                                    name:"Self-Reflective Practices",
+                                    itemStyle:{
+                                        color:"#A5644E",
+                                        borderColor:"#A5644E"
+                                    }
+                                },
+                                {
+                                    name:"Socratic Seminars",
+                                    itemStyle:{
+                                        color:"#761721",
+                                        borderColor:"#761721"
+                                    }
+                                },
+                                {
+                                    name:"Case Study Analysis",
+                                    itemStyle:{
+                                        color:"#B1BADD",
+                                        borderColor:"#B1BADD"
+                                    }
+                                },
+                                {
+                                    name:"Collaborative Assessment",
+                                    itemStyle:{
+                                        color:"#B0CCB0",
+                                        borderColor:"#B0CCB0"
+                                    }
+                                },
+                                {
+                                    name:"Peer Review",
+                                    itemStyle:{
+                                        color:"#4E342E",
+                                        borderColor:"#4E342E"
+                                    }
+                                },
+                                {
+                                    name:"Digital Products",
+                                    itemStyle:{
+                                        color:"#881798",
+                                        borderColor:"#881798"
+                                    }
+                                },
+                                {
+                                    name:"Pilot Testing",
+                                    itemStyle:{
+                                        color:"#D13438",
+                                        borderColor:"#D13438"
+                                    }
+                                },
+    
+                                {
+                                    name:"Teacher AI Competency",
+                                    itemStyle:{
+                                        color:"#40699D",
+                                        borderColor:"#40699D"
+    
+                                    }
+                                },
+                                {
+                                    name:"Ability to use AI in teaching practices",
+                                    itemStyle:{
+                                        color:"#604878",
+                                        borderColor:"#604878"
+                                    }
+                                },
+                                {
+                                    name:"Continue assessment and feedback",
+                                    itemStyle:{
+                                        color:"#009DD9",
+                                        borderColor:"#009DD9"
+                                    }
+                                },
+    
+                                {
+                                    name:"AI Literacy Scale",
+                                    itemStyle:{
+                                        color:"#ac7430",
+                                        borderColor:"#ac7430"
+                                    }
+                                },
+    
+                            ],
+                            
+                            links:[
+                                {
+                                    source:"Understanding AI Concepts",
+                                    target:"Core concepts/Competencies",
+                                    value: 60
+                                },
+                                {
+                                    source:"Understanding AI Concepts",
+                                    target:"Strategies to Acquire",
+                                    value: 63
+                                },
+                                {
+                                    source:"Understanding AI Concepts",
+                                    target:"Application scenarios",
+                                    value: 41
+                                },
+                                {
+                                    source:"Understanding AI Concepts",
+                                    target:"Evaluation strategies",
+                                    value: 59
+                                },
+    
+                                {
+                                    source:"Core concepts/Competencies",
+                                    target:"Technical Skills",
+                                    value: 45
+                                },
+                                {
+                                    source:"Technical Skills",
+                                    target:"Machine Learning",
+                                    value: 16
+                                },
+                                {
+                                    source:"Technical Skills",
+                                    target:"Natural Language Processing",
+                                    value: 4
+                                },
+                                {
+                                    source:"Technical Skills",
+                                    target:"Algorithms",
+                                    value: 5
+                                },
+                                {
+                                    source:"Technical Skills",
+                                    target:"Predictive Analytics",
+                                    value: 1
+                                },
+                                {
+                                    source:"Technical Skills",
+                                    target:"Reinforcement Learning",
+                                    value: 1
+                                },
+                                {
+                                    source:"Technical Skills",
+                                    target:"Supervised/Unsupervised Learning",
+                                    value: 1
+                                },
+                                {
+                                    source:"Technical Skills",
+                                    target:"Rule-based AI",
+                                    value: 1
+                                },
+                                {
+                                    source:"Technical Skills",
+                                    target:"Data Processing",
+                                    value: 15
+                                },
+                                {
+                                    source:"Technical Skills",
+                                    target:"Cloud Computing",
+                                    value: 1
+                                },
+                                {
+                                    source:"Core concepts/Competencies",
+                                    target:"Application Skills",
+                                    value: 10
+                                },
+                                {
+                                    source:"Application Skills",
+                                    target:"ChatGPT",
+                                    value: 7
+                                },
+                                {
+                                    source:"Application Skills",
+                                    target:"Dialogue Systems",
+                                    value: 1
+                                },
+                                {
+                                    source:"Application Skills",
+                                    target:"Human-Machine Collaboration",
+                                    value: 1
+                                },
+                                {
+                                    source:"Application Skills",
+                                    target:"Digital Competencies",
+                                    value: 1
+                                },
+                                {
+                                    source:"Core concepts/Competencies",
+                                    target:"Ethical Thinking",
+                                    value: 4
+                                },
+                                {
+                                    source:"Ethical Thinking",
+                                    target:"AI Ethics",
+                                    value: 2
+                                },
+                                {
+                                    source:"Ethical Thinking",
+                                    target:"AI Thinking",
+                                    value: 1
+                                },
+                                {
+                                    source:"Ethical Thinking",
+                                    target:"Learning Theories",
+                                    value: 1
+                                },
+                                {
+                                    source:"Core concepts/Competencies",
+                                    target:"Pedagogical Frameworks",
+                                    value: 1
+                                },
+                                {
+                                    source:"Pedagogical Frameworks",
+                                    target:"TPACK Framework",
+                                    value: 1
+                                },
+    
+                                {
+                                    source:"Strategies to Acquire",
+                                    target:"Experiential Strategies",
+                                    value: 20
+                                },
+                                {
+                                    source:"Experiential Strategies",
+                                    target:"Hands-on Experience",
+                                    value: 7
+                                },
+                                {
+                                    source:"Experiential Strategies",
+                                    target:"Project-based Learning",
+                                    value: 7
+                                },
+                                {
+                                    source:"Experiential Strategies",
+                                    target:"Inquiry-based Projects",
+                                    value: 2
+                                },
+                                {
+                                    source:"Experiential Strategies",
+                                    target:"Role-playing Games",
+                                    value: 2
+                                },
+                                {
+                                    source:"Experiential Strategies",
+                                    target:"Game-based Learning",
+                                    value: 1
+                                },
+                                {
+                                    source:"Experiential Strategies",
+                                    target:"Experiential Learning",
+                                    value: 1
+                                },
+    
+                                {
+                                    source:"Strategies to Acquire",
+                                    target:"Collaborative Strategies",
+                                    value: 14
+                                },
+                                {
+                                    source:"Collaborative Strategies",
+                                    target:"Collaborative Projects",
+                                    value: 11
+                                },
+                                {
+                                    source:"Collaborative Strategies",
+                                    target:"Iterative Design",
+                                    value: 1
+                                },
+                                {
+                                    source:"Collaborative Strategies",
+                                    target:"Design Thinking",
+                                    value: 1
+                                },
+                                {
+                                    source:"Collaborative Strategies",
+                                    target:"Brainstorm Research",
+                                    value: 1
+                                },
+    
+    
+                                {
+                                    source:"Strategies to Acquire",
+                                    target:"Developmental Strategies",
+                                    value: 17
+                                },
+                                {
+                                    source:"Developmental Strategies",
+                                    target:"Workshops/Training",
+                                    value: 8
+                                },
+                                {
+                                    source:"Developmental Strategies",
+                                    target:"Professional Development",
+                                    value: 5
+                                },
+                                {
+                                    source:"Developmental Strategies",
+                                    target:"Prompt Engineering",
+                                    value: 3
+                                },
+                                {
+                                    source:"Developmental Strategies",
+                                    target:"Pedagogical Support",
+                                    value: 1
+                                },
+    
+    
+                                {
+                                    source:"Strategies to Acquire",
+                                    target:"Tool Exploration",
+                                    value: 12
+                                },
+                                {
+                                    source:"Tool Exploration",
+                                    target:"AI Tools",
+                                    value: 9
+                                },
+                                {
+                                    source:"Tool Exploration",
+                                    target:"AI Dashboards",
+                                    value: 1
+                                },
+                                {
+                                    source:"Tool Exploration",
+                                    target:"Orange3",
+                                    value: 1
+                                },
+                                {
+                                    source:"Tool Exploration",
+                                    target:"ArtBot",
+                                    value: 1
+                                },
+                                {
+                                    source:"Application scenarios",
+                                    target:"Teaching Support",
+                                    value: 23
+                                },
+                                {
+                                    source:"Teaching Support",
+                                    target:"Content Generation",
+                                    value: 7
+                                },
+                                {
+                                    source:"Teaching Support",
+                                    target:"Lesson Planning",
+                                    value: 5
+                                },
+                                {
+                                    source:"Teaching Support",
+                                    target:"Curriculum Design",
+                                    value: 1
+                                },
+                                {
+                                    source:"Teaching Support",
+                                    target:"Instructional Support",
+                                    value: 3
+                                },
+                                {
+                                    source:"Teaching Support",
+                                    target:"Automated Text-based Tasks",
+                                    value: 1
+                                },
+                                {
+                                    source:"Teaching Support",
+                                    target:"Classroom Management",
+                                    value: 1
+                                },
+                                {
+                                    source:"Teaching Support",
+                                    target:"Automated Grading",
+                                    value: 3
+                                },
+                                {
+                                    source:"Teaching Support",
+                                    target:"Classroom Assessment",
+                                    value: 1
+                                },
+                                {
+                                    source:"Teaching Support",
+                                    target:"Learning Analytics",
+                                    value: 1
+                                },
+    
+                                {
+                                    source:"Application scenarios",
+                                    target:"Personalized Support",
+                                    value: 16
+                                },
+                                {
+                                    source:"Personalized Support",
+                                    target:"Personalized Learning",
+                                    value: 7
+                                },
+                                {
+                                    source:"Personalized Support",
+                                    target:"Personalized Instruction",
+                                    value: 1
+                                },
+                                {
+                                    source:"Personalized Support",
+                                    target:"Adaptive Learning Platforms",
+                                    value: 5
+                                },
+                                {
+                                    source:"Personalized Support",
+                                    target:"Adaptive Assessments",
+                                    value: 1
+                                },
+                                {
+                                    source:"Personalized Support",
+                                    target:"Intelligent Tutoring Systems",
+                                    value: 1
+                                },
+                                {
+                                    source:"Personalized Support",
+                                    target:"Feedback Provision",
+                                    value: 1
+                                },
+                                {
+                                    source:"Application scenarios",
+                                    target:"Other Scenarios",
+                                    value: 2
+                                },
+                                {
+                                    source:"Other Scenarios",
+                                    target:"STEM Concepts",
+                                    value: 1
+                                },
+                                {
+                                    source:"Other Scenarios",
+                                    target:"Everyday Contexts",
+                                    value: 1
+                                },
+                                {
+                                    source:"Evaluation strategies",
+                                    target:"Student Evaluation",
+                                    value: 22
+                                },
+                                {
+                                    source:"Student Evaluation",
+                                    target:"Students' performance",
+                                    value: 15
+                                },
+                                {
+                                    source:"Student Evaluation",
+                                    target:"Students' Feedback",
+                                    value: 4
+                                },
+                                {
+                                    source:"Student Evaluation",
+                                    target:"Pre-/Post-Evaluation Survey",
+                                    value: 2
+                                },
+                                {
+                                    source:"Student Evaluation",
+                                    target:"AI Knowledge Tests",
+                                    value: 1
+                                },
+    
+                                {
+                                    source:"Evaluation strategies",
+                                    target:"Reflective Practices",
+                                    value: 14
+                                },
+    
+    
+                                {
+                                    source:"Reflective Practices",
+                                    target:"Self-Reflective Practices",
+                                    value: 11
+                                },
+    
+                                {
+                                    source:"Reflective Practices",
+                                    target:"Socratic Seminars",
+                                    value: 1
+                                },
+                                {
+                                    source:"Reflective Practices",
+                                    target:"Case Study Analysis",
+                                    value: 1
+                                },
+    
+                                {
+                                    source:"Evaluation strategies",
+                                    target:"Collaborative Assessment",
+                                    value: 10
+                                },
+                                {
+                                    source:"Collaborative Assessment",
+                                    target:"Peer Review",
+                                    value: 8
+                                },
+                                {
+                                    source:"Collaborative Assessment",
+                                    target:"Digital Products",
+                                    value: 1
+                                },
+                                {
+                                    source:"Collaborative Assessment",
+                                    target:"Pilot Testing",
+                                    value: 1
+                                },
+                           
+    
+                                {
+                                    source:"Evaluation strategies",
+                                    target:"Teacher AI Competency",
+                                    value: 13
+                                },
+                                {
+                                    source:"Teacher AI Competency",
+                                    target:"Ability to use AI in teaching practices",
+                                    value: 9
+                                },
+                                {
+                                    source:"Teacher AI Competency",
+                                    target:"Continue assessment and feedback",
+                                    value: 3
+                                },
+                                {
+                                    source:"Teacher AI Competency",
+                                    target:"AI Literacy Scale",
+                                    value: 1
+                                },
+                               
+                            ],
+                            lineStyle:{
+                                color:"source",
+                                curveness:0.8,
+                                opacity:0.4,
+                                width: 2
+                            },
+                            itemStyle:{
+                                color:"#1f77b4",
+                                borderColor:"#1f77b4"
+                            },
+                            labelLayout:{
+                                hideOverlap:true
+                            },
+                            label: {
+                                color: 'rgba(255,255,255,0.7)',
+                                fontFamily: 'Times New Roman',
+                                fontWeight: "bold",
+                                fontSize: 16
+                            }                  
+                        }
+                    ],
+                    tooltip:{
+                        trigger:"item"
+                    }
+    
+                }
+                
+                myChart.setOption(option)
+            </script>
+            </div>
+          </div>       
+      </div>
+    </section>
+    
+    <footer id="footer">
+      <div class="container"> 
+        <div class="row">
+          <div class="col-lg-12 animated hiding" data-animation="fadeInUp">
+            <ul class="social list-inline ">
+              <li>
+                <!-- <a class="facebook" href="http://www.facebook.com" title="Facebook">
+                  <i class="fa fa-facebook fa-2x"></i>
+                </a> -->
+              </li>
+              <li>
+                <!-- <a class="twitter" href="http://www.twitter.com" title="Twitter">
+                  <i class="fa fa-twitter fa-2x"></i>
+                </a> -->
+              </li>
+              <li>
+                <!-- <a class="google-plus" href="http://www.plus.google.com" title="Google+">
+                  <i class="fa fa-google-plus fa-2x"></i>
+                </a> -->
+              </li>
+              <li>
+                <!-- <a class="dribbble" href="http://www.linkedin.com" title="Dribbble">
+                  <i class="fa fa-dribbble fa-2x"></i>
+                </a> -->
+              </li>
+            </ul>
+            <p class="copyright"> 
+              Template by <a href="http://www.webthemez.com">WebThemez</a> &middot; 
+              Code licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a> &middot;
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script src="assets/js/modernizr-latest.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/jquery.cslider.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+	<script src="assets/js/jquery.fancybox.pack.js"></script>  
+	<script src="assets/js/jquery.fancybox-media.js"></script>  
+    <script src="assets/js/imagesloaded.min.js"></script>
+    <script src="assets/js/jquery.scrollTo.min.js"></script>
+    <script src="assets/js/jquery.nav.min.js"></script>
+    <script src="assets/js/jquery.appear.min.js"></script>
+    <script src="assets/js/twitterFetcher.min.js"></script>
+    <script src="assets/js/script.js"></script> 
+	<script type="text/javascript">
+    $(document).ready(function () {
+		$('#da-slider').cslider({
+			autoplay: true,
+			bgincrement: 0
+		});
+    });
+    </script>
+  </body>
+</html>

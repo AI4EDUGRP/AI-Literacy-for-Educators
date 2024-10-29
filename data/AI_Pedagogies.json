@@ -1,0 +1,738 @@
+{
+    "nodes":[
+        {
+            "name": "Explicit Modeling",
+            "value": 2
+        },
+        {
+            "name": "Process-oriented Learning",
+            "value": 2
+        },
+        {
+            "name": "Scaffolding AI Literacy",
+            "value": 2
+        },
+        {
+            "name": "Data-Centric Pedagogies",
+            "value": 1
+        },
+        {
+            "name": "Hands-on Learning",
+            "value": 4
+        },
+        {
+            "name": "5E instructional model (Engagement, Exploration, Explanation, Elaboration and Evaluation)",
+            "value": 1
+        },
+        {
+            "name": "TPACK Frameowork",
+            "value": 1
+        },
+        {
+            "name": "Constructivist Learning",
+            "value": 2
+        },
+        {
+            "name": "Inquiry-based Learning",
+            "value": 2
+        },
+        {
+            "name": "Experiment-based Learning",
+            "value": 1
+        },
+        {
+            "name": "Collaborative Learning",
+            "value": 11
+        },
+        {
+            "name": "Multiliteracy Framework (Understanding AI Systems, Critical Thinking, Technical Skills, Social Impacts)",
+            "value": 1
+        },
+        {
+            "name": "Critical Pedagogy",
+            "value": 1
+        },
+        {
+            "name": "Reflective Learning",
+            "value": 1
+        },
+        {
+            "name": "Pedagogizing AI",
+            "value": 1
+        },
+        {
+            "name": "Interdisciplinary Approach",
+            "value": 5
+        },
+        {
+            "name": "Cognitive Engagement (Critical Thinking, Creativity)",
+            "value": 1
+        },
+        {
+            "name": "Behavioral Engagement (Self-directed Learning)",
+            "value": 1
+        },
+        {
+            "name": "Learner-centered Approach",
+            "value": 1
+        },
+        {
+            "name": "Flipped Classroom",
+            "value": 1
+        },
+        {
+            "name": "Game-based Learning",
+            "value": 1
+        },
+        {
+            "name": "Exploratory Learning",
+            "value": 2
+        },
+        {
+            "name": "Human Computer Collaboration",
+            "value": 2
+        },
+        {
+            "name": "Intelligent Literacy Framework (Intelligent Knowledge, Intelligent Skills, Intelligent Thinking, Intelligent Attitudes, Intelligent Application)",
+            "value": 1
+        },
+        {
+            "name": "Peer Teaching",
+            "value": 1
+        },
+        {
+            "name": "Blended Learning",
+            "value": 1
+        },
+        {
+            "name": "Self-directed Learning",
+            "value": 1
+        },
+        {
+            "name": "Action Research Approach",
+            "value": 1
+        },
+        {
+            "name": "Didactic Biplane",
+            "value": 1
+        },
+        {
+            "name": "Theory of Planned Behavior (TPB)",
+            "value": 1
+        },
+        {
+            "name": "Teacher-AI Collaboration (TAC)",
+            "value": 2
+        },
+        {
+            "name": "Problem-based Learning",
+            "value": 3
+        },
+        {
+            "name": "Project-based Learning",
+            "value": 1
+        },
+        {
+            "name": "Culturally Responsive Teaching",
+            "value": 1
+        },
+        {
+            "name": "TPACK Framework",
+            "value": 1
+        },
+        {
+            "name": "Human-centered AI Pedagogy",
+            "value": 1
+        },
+        {
+            "name": "AI Literacy Constructs (Awareness, Usage, Evaluation, Ethics)",
+            "value": 1
+        },
+        {
+            "name": "AI Literacy Framework (Intelligent Knowledge, Intelligent Ability, Intelligent Awareness, Intelligent Ethics)",
+            "value": 1
+        },
+        {
+            "name": "Active Learning Approach",
+            "value": 1
+        },
+        {
+            "name": "Self-regulated Learning",
+            "value": 1
+        },
+        {
+            "name": "Role-Play Grame (RPG)",
+            "value": 1
+        },
+        {
+            "name": "Dialogic Approach",
+            "value": 1
+        },
+        {
+            "name": "AI Literacy Components (Technology, Impact, Ethics, Collaboration, Self-Reflection)",
+            "value": 1
+        },
+        {
+            "name": "Essential Learning Experience (Community Engagement, Global and local case studies, Hands-on activities, Exhibitions and presentations, and Cultural Learning)",
+            "value": 1
+        },
+        {
+            "name": "AI in Teacher Education",
+            "value": 17
+        },
+        {
+            "name": "AI in Teaching",
+            "value": 10
+        },
+        {
+            "name": "AI in K-12",
+            "value": 5
+        },
+        {
+            "name": "Black et al. (2024)",
+            "value": 1
+        },
+        {
+            "name": "Olari and Romeike (2021)",
+            "value": 1
+        },
+        {
+            "name": " Zhang and Zhang (2024)",
+            "value": 1
+        },
+        {
+            "name": "Hashem et al. (2024)",
+            "value": 1
+        },
+        {
+            "name": "ElSayary (2023)",
+            "value": 1
+        },
+        {
+            "name": "Stolpe and Hallstr\u00f6m (2024)",
+            "value": 1
+        },
+        {
+            "name": "van den Berg and du Plessis (2023)",
+            "value": 1
+        },
+        {
+            "name": "Hays et al. (2024)",
+            "value": 1
+        },
+        {
+            "name": "Yau et al. (2022)",
+            "value": 1
+        },
+        {
+            "name": "Chiu et al. (2024)",
+            "value": 2
+        },
+        {
+            "name": "Al-Mughairi and Bhaskar (2024)",
+            "value": 1
+        },
+        {
+            "name": "Vazhayil et al. (2019)",
+            "value": 1
+        },
+        {
+            "name": "Wang (2023)",
+            "value": 1
+        },
+        {
+            "name": "Pretorius (2023)",
+            "value": 1
+        },
+        {
+            "name": "Kaplan-Rakowski et al. (2023)",
+            "value": 1
+        },
+        {
+            "name": "Olari et al. (2024)",
+            "value": 1
+        },
+        {
+            "name": "Sanusi et al. (2024)",
+            "value": 1
+        },
+        {
+            "name": "Kim (2024)",
+            "value": 1
+        },
+        {
+            "name": "Walsh et al. (2023)",
+            "value": 1
+        },
+        {
+            "name": "Wang and Nie (2023)",
+            "value": 1
+        },
+        {
+            "name": "Wang et al. (2023)",
+            "value": 1
+        },
+        {
+            "name": "Wang and Lu (2023)",
+            "value": 1
+        },
+        {
+            "name": "L\u00e9rias et al. (2024)",
+            "value": 1
+        },
+        {
+            "name": "Ng et al. (2023)",
+            "value": 1
+        },
+        {
+            "name": "Henry et al. (2021)",
+            "value": 1
+        },
+        {
+            "name": "Brummelen et al. (2021)",
+            "value": 1
+        },
+        {
+            "name": "Ji et al. (2024)",
+            "value": 1
+        },
+        {
+            "name": "Koh et al. (2023)",
+            "value": 1
+        },
+        {
+            "name": "Zammit et al. (2021)",
+            "value": 1
+        },
+        {
+            "name": "Ruiz et al. (2024)",
+            "value": 1
+        },
+        {
+            "name": "Long and Magerko (2020)",
+            "value": 1
+        }
+    ],
+    "links":[
+        {
+            "source": "AI in K-12",
+            "target": "Collaborative Learning",
+            "value": 3
+        },
+        {
+            "source": "AI in K-12",
+            "target": "Role-Play Grame (RPG)",
+            "value": 1
+        },
+        {
+            "source": "AI in K-12",
+            "target": "Hands-on Learning",
+            "value": 2
+        },
+        {
+            "source": "AI in K-12",
+            "target": "AI Literacy Components (Technology, Impact, Ethics, Collaboration, Self-Reflection)",
+            "value": 1
+        },
+        {
+            "source": "AI in K-12",
+            "target": "Interdisciplinary Approach",
+            "value": 1
+        },
+        {
+            "source": "AI in K-12",
+            "target": "Problem-based Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in K-12",
+            "target": "Essential Learning Experience (Community Engagement, Global and local case studies, Hands-on activities, Exhibitions and presentations, and Cultural Learning)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Explicit Modeling",
+            "value": 2
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Data-Centric Pedagogies",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Cognitive Engagement (Critical Thinking, Creativity)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Game-based Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Human Computer Collaboration",
+            "value": 2
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Blended Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Action Research Approach",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Theory of Planned Behavior (TPB)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Teacher-AI Collaboration (TAC)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "AI Literacy Constructs (Awareness, Usage, Evaluation, Ethics)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "AI Literacy Framework (Intelligent Knowledge, Intelligent Ability, Intelligent Awareness, Intelligent Ethics)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Collaborative Learning",
+            "value": 4
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Constructivist Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Interdisciplinary Approach",
+            "value": 2
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Process-oriented Learning",
+            "value": 2
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Hands-on Learning",
+            "value": 2
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Behavioral Engagement (Self-directed Learning)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Intelligent Literacy Framework (Intelligent Knowledge, Intelligent Skills, Intelligent Thinking, Intelligent Attitudes, Intelligent Application)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Self-directed Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Didactic Biplane",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Problem-based Learning",
+            "value": 2
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Active Learning Approach",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Scaffolding AI Literacy",
+            "value": 2
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Exploratory Learning",
+            "value": 2
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Peer Teaching",
+            "value": 1
+        },
+        {
+            "source": "AI in Teacher Education",
+            "target": "Self-regulated Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "5E instructional model (Engagement, Exploration, Explanation, Elaboration and Evaluation)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "TPACK Frameowork",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Critical Pedagogy",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Collaborative Learning",
+            "value": 4
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Learner-centered Approach",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Project-based Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Human-centered AI Pedagogy",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Teacher-AI Collaboration (TAC)",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Constructivist Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Pedagogizing AI",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Flipped Classroom",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Interdisciplinary Approach",
+            "value": 2
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Dialogic Approach",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Inquiry-based Learning",
+            "value": 2
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Reflective Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Culturally Responsive Teaching",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Experiment-based Learning",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "TPACK Framework",
+            "value": 1
+        },
+        {
+            "source": "AI in Teaching",
+            "target": "Multiliteracy Framework (Understanding AI Systems, Critical Thinking, Technical Skills, Social Impacts)",
+            "value": 1
+        },
+        {
+            "source": "Black et al. (2024)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Olari and Romeike (2021)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": " Zhang and Zhang (2024)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Hashem et al. (2024)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "ElSayary (2023)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "Stolpe and Hallstr\u00f6m (2024)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "van den Berg and du Plessis (2023)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "Hays et al. (2024)",
+            "target": "AI in K-12",
+            "value": 1
+        },
+        {
+            "source": "Yau et al. (2022)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Al-Mughairi and Bhaskar (2024)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "Vazhayil et al. (2019)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Wang (2023)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Pretorius (2023)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Kaplan-Rakowski et al. (2023)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Olari et al. (2024)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Sanusi et al. (2024)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Kim (2024)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Walsh et al. (2023)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "Wang and Nie (2023)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "Wang et al. (2023)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Wang and Lu (2023)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "L\u00e9rias et al. (2024)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Ng et al. (2023)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Henry et al. (2021)",
+            "target": "AI in K-12",
+            "value": 1
+        },
+        {
+            "source": "Brummelen et al. (2021)",
+            "target": "AI in K-12",
+            "value": 1
+        },
+        {
+            "source": "Ji et al. (2024)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "Koh et al. (2023)",
+            "target": "AI in Teaching",
+            "value": 1
+        },
+        {
+            "source": "Zammit et al. (2021)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        },
+        {
+            "source": "Ruiz et al. (2024)",
+            "target": "AI in K-12",
+            "value": 1
+        },
+        {
+            "source": "Chiu et al. (2024)",
+            "target": "AI in K-12",
+            "value": 1
+        },
+        {
+            "source": "Long and Magerko (2020)",
+            "target": "AI in Teacher Education",
+            "value": 1
+        }
+    ]
+}

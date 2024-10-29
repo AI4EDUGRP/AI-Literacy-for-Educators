@@ -1,0 +1,1242 @@
+{
+   
+    "links":[
+        {
+            "source": "Intelligent Tutoring Systems",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Interactive Learning Environments",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Natural Language Interaction",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Collaborative Learning",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Pedagogical oversight",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Pedagogical oversight",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Pedagogical oversight",
+            "value": 1
+        },
+        {
+            "source": "Enhance Critical Thinking",
+            "target": "Pedagogical oversight",
+            "value": 1
+        },
+        {
+            "source": "Explain Complex Concepts",
+            "target": "Pedagogical oversight",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Professional Development",
+            "value": 1
+        },
+  
+        {
+            "source": "AI and STEM Curricula",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Robotics",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Explain Complex Concepts",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Enhance Critical Thinking",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Integrating AI in Classrooms",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Maintaining Interactive Learning Environment",
+            "value": 1
+        },
+        {
+            "source": "Interactive Learning Environments",
+            "target": "Professional Training",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Professional Training",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Professional Training",
+            "value": 1
+        },
+        {
+            "source": "Data Literacy",
+            "target": "Critical Evaluation of AI",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Critical Evaluation of AI",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Critical Evaluation of AI",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Critical Evaluation of AI",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Interactive Learning Environments",
+            "target": "AI Pedagogy",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": " Classroom Management",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Enhance Critical Thinking",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Academic Writing",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "Professional Development",
+            "value": 1
+        },
+
+        
+        {
+            "source": "Assessments",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Collaborative Learning",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Interactive Learning Environments",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "AI and STEM Curricula",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+
+        
+        {
+            "source": "Personalized Instruction",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Perform Literature Review",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Academic Writing",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Learning AI literacy",
+            "target": "Cognitive Intelligence",
+            "value": 1
+        },
+        {
+            "source": "Education Program",
+            "target": "Cognitive Intelligence",
+            "value": 1
+        },
+        {
+            "source": "Digital Competencies",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Collaborative Learning",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Learning AI",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Integrating AI in Classrooms",
+            "target": "AI Design Thinking",
+            "value": 1
+        },
+        {
+            "source": "Conversational AI Curriculum",
+            "target": "AI Design Thinking",
+            "value": 1
+        },
+        {
+            "source": "AI and STEM Curricula",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Explain Complex Concepts",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Collaborative Learning",
+            "target": "AI as Collaborator",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "AI as Collaborator",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "Game-based Learning",
+            "value": 1
+        },
+        {
+            "source": "Enhance Critical Thinking",
+            "target": "Game-based Learning",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Enhance Critical Thinking",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Problem-Solving",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+   
+        
+        {
+            "source": "Intelligent Tutoring Systems",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Interactive Learning Environments",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Natural Language Interaction",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Collaborative Learning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Maintaining Interactive Learning Environment",
+            "value": 1
+        },
+
+        {
+            "source": "Lesson Planning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Enhance Critical Thinking",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+
+        
+        {
+            "source": "Personalized Learning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Interactive Learning Environments",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": " Classroom Management",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Enhance Critical Thinking",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Academic Writing",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Prompt Engineering",
+            "value": 1
+        },
+        {
+            "source": "Collaborative Learning",
+            "target": "AI as Collaborators",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "AI as Collaborators",
+            "value": 1
+        },
+        {
+            "source": "Interactive Learning Environments",
+            "target": "AI as Collaborators",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "AI as Collaborators",
+            "value": 1
+        },
+        {
+            "source": "AI and STEM Curricula",
+            "target": "Improve Ethical Awareness ",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Improve Ethical Awareness ",
+            "value": 1
+        },
+
+        
+        {
+            "source": "Personalized Instruction",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Classroom Management",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Perform Literature Review",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Academic Writing",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Learning AI literacy",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Education Program",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Integrating AI in Classrooms",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "Conversational AI Curriculum",
+            "target": "Harness AI Tools",
+            "value": 1
+        },
+        {
+            "source": "AI and STEM Curricula",
+            "target": "AI as Assistants",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "AI as Assistants",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "AI as Assistants",
+            "value": 1
+        },
+        {
+            "source": "Explain Complex Concepts",
+            "target": "AI as Assistants",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "AI as Assistants",
+            "value": 1
+        },
+        {
+            "source": "Collaborative Learning",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "Improve Ethical Awareness ",
+            "value": 1
+        },
+        {
+            "source": "Enhance Critical Thinking",
+            "target": "Improve Ethical Awareness ",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Balancing AI and Human Expertise",
+            "value": 1
+        },
+  
+        
+        
+        {
+            "source": "Learning AI Literacy",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Intelligent Tutoring Systems",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": "Interactive Learning Environments",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": "Natural Language Interaction",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": "Grading Tasks",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": " Classroom Management",
+            "target": "Teachers as Facilitators",
+            "value": 1
+        },
+        {
+            "source": "Lesson Planning",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Content Creation",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Assessments",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Improve Ethical Awareness",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "Algorithmic Thinking",
+            "value": 1
+        },
+        {
+            "source": "Enhance Critical Thinking",
+            "target": "Algorithmic Thinking",
+            "value": 1
+        },
+        {
+            "source": "Problem-Solving",
+            "target": "Algorithmic Thinking",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "AI as Collaborators",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "AI as Collaborators",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "AI as Collaborators",
+            "value": 1
+        },
+        {
+            "source": "Learning AI Literacy",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Personalized Learning",
+            "target": "Professional Development",
+            "value": 1
+        },
+        {
+            "source": "Personalized Instruction",
+            "target": "Professional Development",
+            "value": 1
+        }
+    ],
+    "nodes":[
+        {
+            "name": "Intelligent Tutoring Systems",
+            "value": 1
+        },
+        {
+            "name": "Interactive Learning Environments",
+            "value": 4
+        },
+        {
+            "name": "Natural Language Interaction",
+            "value": 1
+        },
+        {
+            "name": "Assessments",
+            "value": 12
+        },
+        {
+            "name": "Lesson Planning",
+            "value": 10
+        },
+        {
+            "name": "Content Creation",
+            "value": 9
+        },
+        {
+            "name": "Harness AI Tools",
+            "value": 8
+        },
+        {
+            "name": "Prompt Engineering",
+            "value": 4
+        },
+        {
+            "name": "Teachers as Facilitators",
+            "value": 2
+        },
+        {
+            "name": "Learning AI Literacy",
+            "value": 6
+        },
+        {
+            "name": "Data Literacy",
+            "value": 6
+        },
+        {
+            "name": "Learning AI",
+            "value": 2
+        },
+        {
+            "name": "Personalized Learning",
+            "value": 7
+        },
+        {
+            "name": "Collaborative Learning",
+            "value": 4
+        },
+        {
+            "name": "Classroom Management",
+            "value": 8
+        },
+        {
+            "name": "Improve Ethical Awareness",
+            "value": 18
+        },
+        {
+            "name": "Grading Tasks",
+            "value": 5
+        },
+        {
+            "name": "Personalized Instruction",
+            "value": 18
+        },
+        {
+            "name": "Balancing AI and Human Expertise",
+            "value": 8
+        },
+        {
+            "name": "Enhance Critical Thinking",
+            "value": 5
+        },
+        {
+            "name": "Explain Complex Concepts",
+            "value": 3
+        },
+        {
+            "name": "Pedagogical oversight",
+            "value": 1
+        },
+        {
+            "name": "Professional Development",
+            "value": 8
+        },
+        {
+            "name": "Maintaining Interactive Learning Environment",
+            "value": 2
+        },
+        {
+            "name": "AI and STEM Curricula",
+            "value": 3
+        },
+        {
+            "name": "Robotics",
+            "value": 1
+        },
+        {
+            "name": "Integrating AI in Classrooms",
+            "value": 2
+        },
+        {
+            "name": "Professional Training",
+            "value": 1
+        },
+        {
+            "name": "Critical Evaluation of AI",
+            "value": 1
+        },
+        {
+            "name": "AI Pedagogy",
+            "value": 1
+        },
+        {
+            "name": "Academic Writing",
+            "value": 2
+        },
+        {
+            "name": "AI as Collaborators",
+            "value": 2
+        },
+        {
+            "name": "Perform Literature Review",
+            "value": 1
+        },
+        {
+            "name": "Learning AI literacy",
+            "value": 1
+        },
+        {
+            "name": "Education Program",
+            "value": 1
+        },
+        {
+            "name": "Cognitive Intelligence",
+            "value": 1
+        },
+        {
+            "name": "Digital Competencies",
+            "value": 1
+        },
+        {
+            "name": "Conversational AI Curriculum",
+            "value": 1
+        },
+        {
+            "name": "AI Design Thinking",
+            "value": 1
+        },
+        {
+            "name": "AI as Assistants",
+            "value": 1
+        },
+        {
+            "name": "AI as Collaborator",
+            "value": 1
+        },
+        {
+            "name": "Game-based Learning",
+            "value": 1
+        },
+        {
+            "name": "Problem-Solving",
+            "value": 1
+        },
+        {
+            "name": "Develop Data Literacy",
+            "value": 1
+        },
+        {
+            "name": "Algorithmic Thinking",
+            "value": 1
+        }
+    ]
+}
