@@ -182,7 +182,7 @@
     },
     {
         "name": "Learning AI Literacy",
-        "value": 6
+        "value": 7
     },
     {
         "name": "Data Literacy",
@@ -251,10 +251,6 @@
     },
     {
         "name": "Perform Literature Review",
-        "value": 1
-    },
-    {
-        "name": "Learning AI Literacy",
         "value": 1
     },
     {
